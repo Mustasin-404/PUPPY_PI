@@ -61,5 +61,8 @@ This project bridges the gap between high-level ROS 2 Nav2 algorithms and low-le
 ### Practical Implementation of PHASE 1 
 https://github.com/user-attachments/assets/1865a9fb-7d39-4c8c-9a0c-ee44f4bd9ebb
 
-### Practicale implementation of PHASE 2
+### Practical implementation of PHASE 2
 https://github.com/user-attachments/assets/f2c1609e-f8a5-467f-8752-193871682820
+
+### Practical implementation of PHASE 3
+https://github.com/user-attachments/assets/aa6ab230-2b6b-49cd-b060-fd9ca6f2e6c9
